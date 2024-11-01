@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+nav ul {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 auto;
+}
+
+ul, li {
+    list-style-type: none;
+    padding: 15px;
+}
